@@ -204,27 +204,17 @@ Machine Learning application that classifies emails as Spam or Ham using NLP tec
 
 ### 🤝 Professional Skills
 
-* Technical Documentation
-* Cross-Functional Collaboration
-* Problem Solving
-* AI Product Development
-
-
+* Technical Documentation * Cross-Functional Collaboration * Problem Solving * AI Product Development
 
 ---
 
 # 🌟 What Makes Me Different
 
 🧠 Most people use AI tools.
-
 🚀 I build AI systems.
-
 ⚙️ Most people train models.
-
 💡 I create intelligent products.
-
 🔬 Most people follow trends.
-
 🌍 I explore the future of AGI.
 
 ---
@@ -236,23 +226,6 @@ Machine Learning application that classifies emails as Spam or Ham using NLP tec
 ![GitHub Streak](https://streak-stats.demolab.com?user=vaibhavchau37\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavchau37\&layout=compact\&theme=tokyonight)
-
----
-
-# 📊 Project Portfolio  
-
-| Domain | Projects |
-|----------|----------|
-| 🤖 Generative AI | AI Career Intelligence & Skill Gap Analyzer |
-| 🌾 Agriculture AI | KrishiMitra AI |
-| 🏭 Enterprise Software | ECOFlow |
-| 🛠️ Maintenance Systems | GearGuard |
-| 📧 NLP & Machine Learning | Email Spam Classifier |
-| 🎭 Computer Vision | Smart Attendance & Emotion Tracker |
-
-Total Projects: 6+
-Technologies Used: 25+
-AI Domains Explored: NLP, CV, Generative AI, RAG, Enterprise AI, Agriculture AI
 
 
 ---
