@@ -21,11 +21,13 @@ Building intelligent AI systems using Machine Learning, Deep Learning, Generativ
 
 # 🛠️ Tech Stack
 
-🧠 **AI & ML:** TensorFlow • PyTorch • Keras • Scikit-Learn
+🐍 **Languages:** Python • SQL
 
-🚀 **Generative AI:** LLMs • RAG • LangChain • CrewAI • AutoGen • Agentic AI • AI Agents
+🤖 **AI & ML:** TensorFlow • PyTorch • Keras • Scikit-Learn
 
-💬 **NLP:** Hugging Face • SpaCy • NLTK • Prompt Engineering
+🚀 **Generative AI:** LLMs • RAG • LangChain • CrewAI • AutoGen • Agentic AI • AI Agents • Vector Databases
+
+💬 **NLP:** Hugging Face • SpaCy • NLTK • Prompt Engineering • Text Similarity Matching
 
 👁️ **Computer Vision:** OpenCV • Image Processing • Feature Extraction
 
@@ -33,11 +35,11 @@ Building intelligent AI systems using Machine Learning, Deep Learning, Generativ
 
 📈 **Visualization:** Matplotlib • Seaborn • Plotly
 
-⚙️ **Backend:** Python • SQL • FastAPI • Streamlit
+⚙️ **Backend & APIs:** FastAPI • Streamlit
 
-☁️ **Cloud & Dev Tools:** GCP • Git • GitHub • VS Code • Cursor • Jupyter • Colab
+☁️ **Cloud & Tools:** GCP • Git • GitHub • VS Code • Cursor AI • Jupyter • Google Colab
 
-🚀 **Deployment:** Vercel • Render • API Development • AI Pipelines • Model Deployment
+🚀 **Deployment & MLOps:** Vercel • Render • API Development • AI Pipelines • Model Deployment
 
 🤝 **Professional Skills:** Problem Solving • AI Product Development • Technical Documentation • Cross-Functional Collaboration
 
