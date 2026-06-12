@@ -16,6 +16,32 @@ Building intelligent AI systems using Machine Learning, Deep Learning, Generativ
 
 🌐 Portfolio: https://vaibhav-personal-portfolio.vercel.app/
 
+
+---
+
+# 🛠️ Tech Stack
+
+🧠 **AI & ML:** TensorFlow • PyTorch • Keras • Scikit-Learn
+
+🚀 **Generative AI:** LLMs • RAG • LangChain • CrewAI • AutoGen • Agentic AI • AI Agents
+
+💬 **NLP:** Hugging Face • SpaCy • NLTK • Prompt Engineering
+
+👁️ **Computer Vision:** OpenCV • Image Processing • Feature Extraction
+
+📊 **Data Science:** Pandas • NumPy • EDA • Feature Engineering • Data Preprocessing
+
+📈 **Visualization:** Matplotlib • Seaborn • Plotly
+
+⚙️ **Backend:** Python • SQL • FastAPI • Streamlit
+
+☁️ **Cloud & Dev Tools:** GCP • Git • GitHub • VS Code • Cursor • Jupyter • Colab
+
+🚀 **Deployment:** Vercel • Render • API Development • AI Pipelines • Model Deployment
+
+🤝 **Professional Skills:** Problem Solving • AI Product Development • Technical Documentation • Cross-Functional Collaboration
+
+
 ---
 
 # 🧠 Featured Projects
@@ -123,29 +149,6 @@ Machine Learning application that classifies emails as Spam or Ham using NLP tec
 
 [![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge\&logo=github)](https://github.com/vaibhavchau37/spam_email_classifier)
 
----
-
-# 🛠️ Tech Stack
-
-🧠 **AI & ML:** TensorFlow • PyTorch • Keras • Scikit-Learn
-
-🚀 **Generative AI:** LLMs • RAG • LangChain • CrewAI • AutoGen • Agentic AI • AI Agents
-
-💬 **NLP:** Hugging Face • SpaCy • NLTK • Prompt Engineering
-
-👁️ **Computer Vision:** OpenCV • Image Processing • Feature Extraction
-
-📊 **Data Science:** Pandas • NumPy • EDA • Feature Engineering • Data Preprocessing
-
-📈 **Visualization:** Matplotlib • Seaborn • Plotly
-
-⚙️ **Backend:** Python • SQL • FastAPI • Streamlit
-
-☁️ **Cloud & Dev Tools:** GCP • Git • GitHub • VS Code • Cursor • Jupyter • Colab
-
-🚀 **Deployment:** Vercel • Render • API Development • AI Pipelines • Model Deployment
-
-🤝 Professional Skills: Problem Solving • AI Product Development • Technical Documentation • Cross-Functional Collaboration
 
 ---
 
