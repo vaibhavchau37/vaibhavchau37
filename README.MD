@@ -127,87 +127,25 @@ Machine Learning application that classifies emails as Spam or Ham using NLP tec
 
 # 🛠️ Tech Stack
 
-### 💻 Programming Languages
+🧠 **AI & ML:** TensorFlow • PyTorch • Keras • Scikit-Learn
 
-* Python
-* SQL
+🚀 **Generative AI:** LLMs • RAG • LangChain • CrewAI • AutoGen • Agentic AI • AI Agents
 
-### 🤖 AI / ML Frameworks
+💬 **NLP:** Hugging Face • SpaCy • NLTK • Prompt Engineering
 
-* TensorFlow
-* PyTorch
-* Keras
-* Scikit-Learn
+👁️ **Computer Vision:** OpenCV • Image Processing • Feature Extraction
 
-### 🧠 Natural Language Processing
+📊 **Data Science:** Pandas • NumPy • EDA • Feature Engineering • Data Preprocessing
 
-* Hugging Face Transformers
-* SpaCy
-* NLTK
-* Text Similarity Matching
-* Prompt Engineering
+📈 **Visualization:** Matplotlib • Seaborn • Plotly
 
-### 👁️ Computer Vision
+⚙️ **Backend:** Python • SQL • FastAPI • Streamlit
 
-* OpenCV
-* Image Processing
-* Feature Extraction
+☁️ **Cloud & Dev Tools:** GCP • Git • GitHub • VS Code • Cursor • Jupyter • Colab
 
-### ⚡ Frameworks & APIs
+🚀 **Deployment:** Vercel • Render • API Development • AI Pipelines • Model Deployment
 
-* FastAPI
-* Streamlit
-
-### 📊 Data Science & Analytics
-
-* Pandas
-* NumPy
-* Data Cleaning
-* Data Preprocessing
-* Feature Engineering
-* Exploratory Data Analysis (EDA)
-
-### 📈 Data Visualization
-
-* Matplotlib
-* Seaborn
-* Plotly
-
-### 🚀 Generative AI
-
-* LLMs
-* RAG
-* LangChain
-* CrewAI
-* AutoGen
-* AI Agents
-* Agentic AI
-* Vector Databases
-
-### ☁️ Cloud & Developer Tools
-
-* Google Cloud Platform (GCP)
-* Git
-* GitHub
-* VS Code
-* Cursor AI
-* Jupyter Notebook
-* Google Colab
-
-### 🔧 MLOps & Deployment
-
-* Model Deployment
-* AI Pipelines
-* API Development
-* Vercel
-* Render
-
-### 🤝 Professional Skills
-
-* Technical Documentation 
-* Cross-Functional Collaboration 
-* Problem Solving 
-* AI Product Development
+🤝 Professional Skills: Problem Solving • AI Product Development • Technical Documentation • Cross-Functional Collaboration
 
 ---
 
