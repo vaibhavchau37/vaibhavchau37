@@ -204,17 +204,25 @@ Machine Learning application that classifies emails as Spam or Ham using NLP tec
 
 ### 🤝 Professional Skills
 
-* Technical Documentation * Cross-Functional Collaboration * Problem Solving * AI Product Development
+* Technical Documentation 
+* Cross-Functional Collaboration 
+* Problem Solving 
+* AI Product Development
 
 ---
 
 # 🌟 What Makes Me Different
 
 🧠 Most people use AI tools.
+
 🚀 I build AI systems.
+
 ⚙️ Most people train models.
+
 💡 I create intelligent products.
+
 🔬 Most people follow trends.
+
 🌍 I explore the future of AGI.
 
 ---
