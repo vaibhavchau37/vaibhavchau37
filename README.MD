@@ -6,13 +6,15 @@ Building intelligent AI systems using Machine Learning, Deep Learning, Generativ
 
 ---
 
-# 🚀 Current Mission
+# 📫 Connect With Me
 
-* Building Production-Ready AI Applications
-* Exploring Agentic AI & Multi-Agent Systems
-* Developing Advanced LLM Applications
-* Learning Scalable AI Deployment & MLOps
-* Working Towards AGI-Oriented Research
+📧 Email: [vaibhavchaudhary508@gmail.com](mailto:vaibhavchaudhary508@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/vaibhav-chaudhary-4bb80933b
+
+🐙 GitHub: https://github.com/vaibhavchau37
+
+🌐 Portfolio: https://vaibhav-personal-portfolio.vercel.app/
 
 ---
 
@@ -34,6 +36,10 @@ An AI-powered career intelligence platform that analyzes resumes, identifies ski
 * AI-Powered Mock Interviews
 * Live Job Market Analysis
 
+### 🔗 Repository
+
+[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge\&logo=github)](https://github.com/vaibhavchau37/AI-Career-Intelligence-Skill-Gap-Analyzer)
+
 ---
 
 ## 🌾 KrishiMitra AI
@@ -51,6 +57,11 @@ An intelligent crop recommendation platform designed specifically for Indian far
 * Agricultural Calendar Planning
 * Support for 22+ Crop Varieties
 
+
+### 🔗 Repository
+
+[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge\&logo=github)](https://github.com/vaibhavchau37/KrishiMitraAI)
+
 ---
 
 ## 🏭 ECOFlow – Engineering Change Order System
@@ -66,6 +77,11 @@ Enterprise-grade Product Lifecycle Management (PLM) platform with Engineering Ch
 * Version Control & Audit Logs
 * Role-Based Access Control
 * Engineering Change Management
+
+
+### 🔗 Repository
+
+[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge\&logo=github)](https://github.com/RishabhPandey-07/Ecoflow)
 
 ---
 
@@ -83,6 +99,11 @@ A modern maintenance management platform for tracking equipment and maintenance 
 * Smart Automation Features
 * Interactive Dashboards
 
+### 🔗 Repository
+
+[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge\&logo=github)](https://github.com/RishabhPandey-07/GearGuard-Maintenance-Tracker)
+
+
 ---
 
 ## 📧 Email Spam Classifier
@@ -98,7 +119,9 @@ Machine Learning application that classifies emails as Spam or Ham using NLP tec
 * Real-Time Prediction
 * Interactive Desktop Application
 
+### 🔗 Repository
 
+[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge\&logo=github)](https://github.com/vaibhavchau37/spam_email_classifier)
 
 ---
 
@@ -216,15 +239,21 @@ Machine Learning application that classifies emails as Spam or Ham using NLP tec
 
 ---
 
-# 📫 Connect With Me
+# 📊 Project Portfolio  
 
-📧 Email: [vaibhavchaudhary508@gmail.com](mailto:vaibhavchaudhary508@gmail.com)
+| Domain | Projects |
+|----------|----------|
+| 🤖 Generative AI | AI Career Intelligence & Skill Gap Analyzer |
+| 🌾 Agriculture AI | KrishiMitra AI |
+| 🏭 Enterprise Software | ECOFlow |
+| 🛠️ Maintenance Systems | GearGuard |
+| 📧 NLP & Machine Learning | Email Spam Classifier |
+| 🎭 Computer Vision | Smart Attendance & Emotion Tracker |
 
-💼 LinkedIn: https://www.linkedin.com/in/vaibhav-chaudhary-4bb80933b
+Total Projects: 6+
+Technologies Used: 25+
+AI Domains Explored: NLP, CV, Generative AI, RAG, Enterprise AI, Agriculture AI
 
-🐙 GitHub: https://github.com/vaibhavchau37
-
-🌐 Portfolio: https://vaibhav-personal-portfolio.vercel.app/
 
 ---
 
