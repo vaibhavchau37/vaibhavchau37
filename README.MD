@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaibhav Chaudhary
 
-### AI Engineer | Generative AI Developer | Future AGI Researcher
+### AI/ML Engineer | Generative AI Developer | 
 
 Building intelligent AI systems using Machine Learning, Deep Learning, Generative AI, LLMs, RAG, and Agentic AI to solve real-world problems.
 
