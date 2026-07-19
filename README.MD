@@ -19,7 +19,7 @@
 <img src="./vaibhav-lanyard.svg?v=2" alt="Vaibhav Chaudhary ID badge" width="330"/>
 
 </td>
-<td width="62%" valign="middle">
+<td width="50%" valign="middle">
 
 ### 🤖 My AI Projects
 
