@@ -13,23 +13,23 @@
 
 <table align="center" border="0" width="100%">
 <tr>
-<td width="45%" align="center" valign="middle">
+<td width="55%" align="center" valign="middle">
 
-<!-- 🪪 Swinging Lanyard ID Card (Larger Size) -->
-<img src="./vaibhav-lanyard.svg?v=2" alt="Vaibhav Chaudhary ID badge" width="400"/>
+<!-- 🪪 Swinging Lanyard ID Card (Extra Large) -->
+<img src="./vaibhav-lanyard.svg?v=2" alt="Vaibhav Chaudhary ID badge" width="500"/>
 
 </td>
-<td width="55%" valign="middle">
+<td width="45%" valign="middle">
 
 ### 🤖 My AI Projects
 
-| 🚀 Project | 💻 Tech Stack | ⭐ |
-|:---|:---:|:---:|
-| [🔍 AI Career Intelligence & Skill Gap Analyzer](https://github.com/vaibhavchau37/AI-Career-Intelligence-Skill-Gap-Analyzer) | `FastAPI` `Streamlit` `spaCy` `LLMs` | 12 |
-| [🌾 KrishiMitra AI](https://github.com/vaibhavchau37/KrishiMitraAI) | `Python` `Scikit-Learn` `Streamlit` | 8 |
-| [🏭 ECOFlow – Engineering Change Order System](https://github.com/RishabhPandey-07/Ecoflow) | `React` `Node.js` `MongoDB` | 5 |
-| [🛠️ GearGuard – Maintenance Management System](https://github.com/RishabhPandey-07/GearGuard-Maintenance-Tracker) | `Flask` `React` `SQLite` | 4 |
-| [📧 Email Spam Classifier](https://github.com/vaibhavchau37/spam_email_classifier) | `Python` `NLTK` `Scikit-Learn` `Tkinter` | 6 |
+| 🚀 Project | ⭐ |
+|:---|:---:|
+| [🔍 AI Career Intelligence & Skill Gap Analyzer](https://github.com/vaibhavchau37/AI-Career-Intelligence-Skill-Gap-Analyzer) | 12 |
+| [🌾 KrishiMitra AI](https://github.com/vaibhavchau37/KrishiMitraAI) | 8 |
+| [🏭 ECOFlow – Engineering Change Order System](https://github.com/RishabhPandey-07/Ecoflow) | 5 |
+| [🛠️ GearGuard – Maintenance Management System](https://github.com/RishabhPandey-07/GearGuard-Maintenance-Tracker) | 4 |
+| [📧 Email Spam Classifier](https://github.com/vaibhavchau37/spam_email_classifier) | 6 |
 
 <br/>
 
