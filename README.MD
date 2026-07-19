@@ -16,7 +16,7 @@
 <td width="55%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (Extra Large) -->
-<img src="./vaibhav-lanyard.svg?v=2" alt="Vaibhav Chaudhary ID badge" width="500"/>
+<img src="./vaibhav-lanyard.svg?v=2" alt="Vaibhav Chaudhary ID badge" width="400"/>
 
 </td>
 <td width="45%" valign="middle">
