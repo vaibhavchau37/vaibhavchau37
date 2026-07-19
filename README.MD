@@ -11,15 +11,15 @@
 
 <br/>
 
-<table align="center" border="0">
+<table align="center" border="0" width="100%">
 <tr>
-<td width="38%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./vaibhav-lanyard.svg?v=2" alt="Vaibhav Chaudhary ID badge" width="350"/>
+<!-- 🪪 Swinging Lanyard ID Card (Larger Size) -->
+<img src="./vaibhav-lanyard.svg?v=2" alt="Vaibhav Chaudhary ID badge" width="450"/>
 
 </td>
-<td width="62%" valign="middle">
+<td width="60%" valign="middle">
 
 ### 🤖 My AI Projects
 
