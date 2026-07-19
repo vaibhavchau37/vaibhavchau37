@@ -13,13 +13,13 @@
 
 <table align="center" border="0">
 <tr>
-<td width="40%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
 <img src="./vaibhav-lanyard.svg?v=2" alt="Vaibhav Chaudhary ID badge" width="330"/>
 
 </td>
-<td width="60%" valign="middle">
+<td width="70%" valign="middle">
 
 ### 🤖 My AI Projects
 
