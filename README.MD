@@ -13,13 +13,10 @@
 
 <table align="center" border="0" width="100%">
 <tr>
-<td width="40%" align="center" valign="middle">
-
-<!-- 🪪 Swinging Lanyard ID Card (Larger Size) -->
-<img src="./vaibhav-lanyard.svg?v=2" alt="Vaibhav Chaudhary ID badge" width="450"/>
-
+<td width="38%" align="center" valign="middle">
+<img src="./vaibhav-lanyard.svg?v=2" alt="Vaibhav Chaudhary ID badge" width="500"/>
 </td>
-<td width="60%" valign="middle">
+<td width="62%" valign="middle">
 
 ### 🤖 My AI Projects
 
