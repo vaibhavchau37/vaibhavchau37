@@ -1,184 +1,92 @@
-# 👋 Hi, I'm Vaibhav Chaudhary
+<div align="center">
 
-### AI/ML Engineer | Generative AI Developer 
+<!-- ✨ Animated Banner ✨ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./vaibhav-banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./vaibhav-banner-light.svg?v=1">
+  <img src="./vaibhav-banner.svg?v=1" alt="Vaibhav Chaudhary — AI/ML Engineer" width="100%"/>
+</picture>
 
-Building intelligent AI systems using Machine Learning, Deep Learning, Generative AI, LLMs, RAG, and Agentic AI to solve real-world problems.
+</div>
 
----
+<br/>
 
-# 📫 Connect With Me
+<table align="center" border="0">
+<tr>
+<td width="38%" align="center" valign="middle">
 
-📧 Email: [vaibhavchaudhary508@gmail.com](mailto:vaibhavchaudhary508@gmail.com)
+<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
+<img src="./vaibhav-lanyard.svg?v=2" alt="Vaibhav Chaudhary ID badge" width="330"/>
 
-💼 LinkedIn: https://www.linkedin.com/in/vaibhav-chaudhary-4bb80933b
+</td>
+<td width="62%" valign="middle">
 
-🐙 GitHub: https://github.com/vaibhavchau37
+### 🤖 My AI Projects
 
-🌐 Portfolio: https://vaibhav-personal-portfolio.vercel.app/
+| 🚀 Project | 💻 Tech Stack | ⭐ |
+|:---|:---:|:---:|
+| [🔍 AI Career Intelligence & Skill Gap Analyzer](https://github.com/vaibhavchau37/AI-Career-Intelligence-Skill-Gap-Analyzer) | `FastAPI` `Streamlit` `spaCy` `LLMs` | 12 |
+| [🌾 KrishiMitra AI](https://github.com/vaibhavchau37/KrishiMitraAI) | `Python` `Scikit-Learn` `Streamlit` | 8 |
+| [🏭 ECOFlow – Engineering Change Order System](https://github.com/RishabhPandey-07/Ecoflow) | `React` `Node.js` `MongoDB` | 5 |
+| [🛠️ GearGuard – Maintenance Management System](https://github.com/RishabhPandey-07/GearGuard-Maintenance-Tracker) | `Flask` `React` `SQLite` | 4 |
+| [📧 Email Spam Classifier](https://github.com/vaibhavchau37/spam_email_classifier) | `Python` `NLTK` `Scikit-Learn` `Tkinter` | 6 |
 
+<br/>
 
----
+> 💡 *"I don't build websites, I build Intelligent AI Solutions."*
 
-# 🛠️ Tech Stack
+</td>
+</tr>
+</table>
 
-🐍 **Languages:** Python • SQL
+<br/>
 
-🤖 **AI & ML:** TensorFlow • PyTorch • Keras • Scikit-Learn
+<div align="center">
 
-🚀 **Generative AI:** LLMs • RAG • LangChain • CrewAI • AutoGen • Agentic AI • AI Agents • Vector Databases
+### 📊 GitHub Stats & Graphs
 
-💬 **NLP:** Hugging Face • SpaCy • NLTK • Prompt Engineering • Text Similarity Matching
+<!-- Your custom stats and skills SVGs -->
+<img src="./vaibhav-stats.svg?v=2" alt="GitHub Stats" height="185"/>
+<img src="./vaibhav-skills.svg?v=2" alt="Top Skills" height="185"/>
 
-👁️ **Computer Vision:** OpenCV • Image Processing • Feature Extraction
+<br/><br/>
 
-📊 **Data Science:** Pandas • NumPy • EDA • Feature Engineering • Data Preprocessing
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=vaibhavchau37&theme=radical&hide_border=true&background=0b0b2e&ring=00d4ff&fire=ff7eb6&currStreakLabel=8b5cf6" alt="GitHub Streak"/>
 
-📈 **Visualization:** Matplotlib • Seaborn • Plotly
+<br/><br/>
 
-⚙️ **Backend & APIs:** FastAPI • Streamlit
+<!-- 📈 Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavchau37&bg_color=0b0b2e&color=00d4ff&line=8b5cf6&point=ff7eb6&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20🚀" alt="Contribution graph" width="95%"/>
 
-☁️ **Cloud & Tools:** GCP • Git • GitHub • VS Code • Cursor AI • Jupyter • Google Colab
+<br/><br/>
 
-🚀 **Deployment & MLOps:** Vercel • Render • API Development • AI Pipelines • Model Deployment
+<!-- 🏆 Trophies (local animated SVG) -->
+<img src="./vaibhav-trophies.svg?v=2" alt="Trophies" width="95%"/>
 
-🤝 **Professional Skills:** Problem Solving • AI Product Development • Technical Documentation • Cross-Functional Collaboration
+<br/><br/>
 
+### 🐍 Watch the snake eat my contributions
 
----
+<!-- Contribution Snake Animation -->
+<img src="https://raw.githubusercontent.com/vaibhavchau37/vaibhavchau37/output/github-snake-cyan.svg" alt="Contribution snake"/>
 
-# 🧠 Featured Projects
+<br/><br/>
 
-## 🚀 AI Career Intelligence & Skill Gap Analyzer
+### 📫 Let's Connect
 
-An AI-powered career intelligence platform that analyzes resumes, identifies skill gaps, predicts suitable job roles, and generates personalized learning roadmaps.
+<a href="mailto:vaibhavchaudhary508@gmail.com"><img src="https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
+<a href="https://github.com/vaibhavchau37"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/vaibhav-chaudhary-4bb80933b"><img src="https://img.shields.io/badge/LinkedIn-ff7eb6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://vaibhav-personal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-e879f9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
-**Tech Stack:** FastAPI, Streamlit, spaCy, Sentence Transformers, Scikit-Learn, OpenAI, Gemini, SQLite
+<br/><br/>
 
-**Key Features:**
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=vaibhavchau37&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
-* Resume Parsing from PDFs
-* Skill Gap Analysis using TF-IDF & Cosine Similarity
-* Job Readiness Score (0–100)
-* Role Suitability Prediction
-* Personalized Learning Roadmaps
-* AI-Powered Mock Interviews
-* Live Job Market Analysis
+<br/><br/>
 
-### 🔗 Repository
+*🧠 Building AI systems, not just using AI tools.* ⚙️
 
-[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge\&logo=github)](https://github.com/vaibhavchau37/AI-Career-Intelligence-Skill-Gap-Analyzer)
-
----
-
-## 🌾 KrishiMitra AI
-
-An intelligent crop recommendation platform designed specifically for Indian farmers.
-
-**Tech Stack:** Python, Machine Learning, Streamlit, OpenWeather API
-
-**Key Features:**
-
-* Pincode-Based Crop Recommendation
-* Soil & Weather Analysis
-* Financial ROI Prediction
-* Disease Prevention Guidance
-* Agricultural Calendar Planning
-* Support for 22+ Crop Varieties
-
-
-### 🔗 Repository
-
-[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge\&logo=github)](https://github.com/vaibhavchau37/KrishiMitraAI)
-
----
-
-## 🏭 ECOFlow – Engineering Change Order System
-
-Enterprise-grade Product Lifecycle Management (PLM) platform with Engineering Change Order (ECO) workflows.
-
-**Tech Stack:** React, TypeScript, Node.js, Express.js, MongoDB
-
-**Key Features:**
-
-* Product Lifecycle Management
-* Multi-Stage Approval Workflow
-* Version Control & Audit Logs
-* Role-Based Access Control
-* Engineering Change Management
-
-
-### 🔗 Repository
-
-[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge\&logo=github)](https://github.com/RishabhPandey-07/Ecoflow)
-
----
-
-## 🛠️ GearGuard – Maintenance Management System
-
-A modern maintenance management platform for tracking equipment and maintenance operations.
-
-**Tech Stack:** Flask, React, SQLite, Tailwind CSS
-
-**Key Features:**
-
-* Equipment Management
-* Preventive Maintenance Scheduling
-* Kanban Workflow Management
-* Smart Automation Features
-* Interactive Dashboards
-
-### 🔗 Repository
-
-[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge\&logo=github)](https://github.com/RishabhPandey-07/GearGuard-Maintenance-Tracker)
-
-
----
-
-## 📧 Email Spam Classifier
-
-Machine Learning application that classifies emails as Spam or Ham using NLP techniques.
-
-**Tech Stack:** Python, NLTK, Scikit-Learn, Tkinter, Matplotlib
-
-**Key Features:**
-
-* NLP-Based Email Classification
-* Confidence Score Visualization
-* Real-Time Prediction
-* Interactive Desktop Application
-
-### 🔗 Repository
-
-[![GitHub Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge\&logo=github)](https://github.com/vaibhavchau37/spam_email_classifier)
-
-
----
-
-# 🌟 What Makes Me Different
-
-🧠 Most people use AI tools.
-
-🚀 I build AI systems.
-
-⚙️ Most people train models.
-
-💡 I create intelligent products.
-
-🔬 Most people follow trends.
-
-🌍 I explore the future of AGI.
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavchau37\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vaibhavchau37\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavchau37\&layout=compact\&theme=tokyonight)
-
-
----
-
-⭐ "Building intelligent systems today for the AI-powered world of tomorrow."
+</div>
